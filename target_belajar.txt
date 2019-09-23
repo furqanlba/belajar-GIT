@@ -1,4 +1,5 @@
-Senin : Bootstrap, GIT
+Senin : GIT
 Selasa : SIM
-Rabu : kosong
+
 Kamis : GNS3
+Jum'at : Trigger DB
