@@ -3,3 +3,5 @@ Selasa : SIM
 
 Kamis : GNS3
 Jum'at : Trigger DB
+Sabtu : Bagas Tugas kelompok UI
+Minggu : Bagas Tugas Kelompok Basis Data Lanjut
