@@ -6,3 +6,4 @@ Kamis : GNS 3
 Jumat : Triger DB
 Sabtu : Bagas Tugas kelompok UI
 Minggu : Bagas Tugas Kelompok Basis Data Lanjut
+INI DI BRANCH
